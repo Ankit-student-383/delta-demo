@@ -1,4 +1,4 @@
-
+![logo] (https://github.com/Ankit-student-383/delta-demo/blob/main/photo.jpg)
 <h1 align="center">Hi 👋, I'm Ashwani yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
